@@ -1,4 +1,4 @@
-# ChurnModel20210119
+# Classification-Churn-Model
 Build Churn Model
 
 Summary:
